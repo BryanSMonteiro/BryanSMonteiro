@@ -49,7 +49,6 @@ Meu objetivo é conquistar minha primeira oportunidade profissional em TI, desen
 ## 📫 Contato
 
 💼 **LinkedIn:** (https://www.linkedin.com/in/bryan-de-souza-37aa6836b/)
-🐙 **GitHub:** @BryanSMonteiro
 
 ---
 
