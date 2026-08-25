@@ -28,14 +28,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+🚀 Perfil em construção.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BryanSMonteiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+Atualmente estou desenvolvendo meus primeiros projetos e utilizando o GitHub para acompanhar minha evolução como desenvolvedor.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSMonteiro&layout=compact&theme=github_dark"/>
-
-</div>
-
+**Foco atual:** Java • HTML • CSS • Git
 ---
 
 ## 🎯 Objetivo
