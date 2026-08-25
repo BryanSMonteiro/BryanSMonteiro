@@ -1,7 +1,9 @@
 # Olá! Eu sou o Bryan 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+
 💻 Desenvolvedor em formação, explorando desenvolvimento de software e tecnologias web.
+
 🚀 Em busca da minha primeira oportunidade profissional na área de **Tecnologia da Informação**.
 
 > *"Não quero viver para trabalhar. Quero trabalhar enquanto vivo."*
