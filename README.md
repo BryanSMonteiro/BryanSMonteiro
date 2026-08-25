@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-🚀 Perfil em construção.
-
-Atualmente estou desenvolvendo meus primeiros projetos e utilizando o GitHub para acompanhar minha evolução como desenvolvedor.
-
-**Foco atual:** Java • HTML • CSS • Git
----
-
 ## 🎯 Objetivo
 
 Estou construindo minha carreira na área de **Tecnologia da Informação**, buscando transformar o que aprendo na faculdade e nos meus estudos pessoais em projetos reais.
@@ -57,7 +48,7 @@ Meu objetivo é conquistar minha primeira oportunidade profissional em TI, desen
 
 ## 📫 Contato
 
-💼 **LinkedIn:** Em breve
+💼 **LinkedIn:** (https://www.linkedin.com/in/bryan-de-souza-37aa6836b/)
 🐙 **GitHub:** @BryanSMonteiro
 
 ---
